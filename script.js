@@ -10,11 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "IMG_6378.jpeg", "IMG_7062.jpeg", "IMG_7230.jpeg",
         "IMG_7897.jpeg", "IMG_7933.jpeg", "IMG_8387.peg",
         "IMG_8909.jpeg", "IMG_9338.jpeg", "IMG_9344.jpeg",
-        "img0001.jpeg", "img002.jpeg", "zhuzhu21.jpg",
-        "zhuzhu22.jpg", "zhuzhu23.jpg", "zhuzhu24.jpg",
-        "zhuzhu25.jpg", "zhuzhu26.jypg", "zhuzhu27.jpg",
-        "zhuzhu28.jpg", "zhuzhu29.jpg", "zhuzhu30.jpg",
-        "zhuzhu31.jpg", "zhuzhu32.jpg",
+        "img0001.jpeg", "img002.jpeg"
     ];
 
     let message = "Happy Valentine's Day,babyyy.I LOVE YOU A LOt this is our second year together alrready.I still wanna grow up and move forward w you.thank you for always love me and take care of me.I really love u and appreciate everyting you do for me.If we ever have proplems, I want  us to talk more and understand each other better.You're my boyfriend,my friend ,my family , my soul.and I love you more than you know babe. 💖";
